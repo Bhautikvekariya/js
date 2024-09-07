@@ -12,7 +12,7 @@ console.log(BooleanValue);
 console.log(typeof BooleanValue)
 
 
-let someString="hitesh"
+let someString="john"
 
 let SomeNumber=Number(someString)
 console.log(SomeNumber);
