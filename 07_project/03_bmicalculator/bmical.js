@@ -35,9 +35,7 @@ form.addEventListener('submit', function (e) {
       <h3>BMI Weight Guide</h3>
       <p>Underweight = Less than 18.5</p>
       <p>Normal Range = 18.5 to 24.9</p>
-      <p>Overweight = 25 to 29.9</p>
-
-    `;
+      <p>Overweight = 25 to 29.9</p>`;
   }
 });
 
